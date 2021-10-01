@@ -1,0 +1,50 @@
+header {
+	background: #4db6ac;
+	padding: 20px 0;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+.caixa {
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+}
+
+nav {
+	position: absolute;
+	top: 120px;
+	right: 5%;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 2em;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #e0f2f1;
+	text-decoration: underline;
+}
+
+footer {
+	text-align: center;
+	background-color: #004d40;
+	padding: 20px 0 30px;
+	width: 100%;
+}
+
+.copyright {
+	color: white;
+	font-size: 0.3em;
+}
